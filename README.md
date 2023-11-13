@@ -11,8 +11,7 @@
 - 🔭 I’m currently working on exciting projects in the field of computer vision, focusing on **object detection for robotics applications**.
 - 🌱 Actively exploring advanced techniques in **Machine Vision** to push the boundaries of visual perception.
 - 🔍 Delving into  the fascinating realm of **3D Object Reconstruction**
-- 📫 Feel free to connect with me on [LinkedIn]([Your LinkedIn Profile URL](https://www.linkedin.com/in/tessapulli/). I'm always open to some geek discussions!
-- 😄 Pronouns: She/her
+- 📫 Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/tessapulli/]).
   
 🔧 **Tech Stack:**
 - 🛠️ Programming Languages & Libraries:
