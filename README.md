@@ -1,4 +1,4 @@
-![](https://github.com/pullover00/readme/blob/main/dino.gif)
+![](https://github.com/pullover00/pullover00/blob/main/dino.gif)
 <h1 align="center"> 👋 Hi, I'm Tessa </h1>
 <h3 align="center"> Passionate Roboticist and Computer Vision enthusiast based in Vienna </h3>
 <h3 align="center"> Welcome to my GitHub profile </h3>
