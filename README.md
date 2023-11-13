@@ -13,9 +13,9 @@
 - 🔍 Delving into **3D Object Reconstruction**.
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tessapulli/).
 
-
-
-
+💻 **Technical Skills:**
+- Python | C++ | OpenCV | TensorFlow | PyTorch
+- Docker | Git | Linux | MATLAB
 
 
 
