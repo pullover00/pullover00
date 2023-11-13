@@ -8,9 +8,9 @@
 
 
 🌟 **What I Do**
-- 🔭 I’m currently working on exciting projects in the field of computer vision, focusing on **object detection for robotics applications**.
-- 🌱 Actively exploring advanced techniques in **Machine Vision** to push the boundaries of visual perception.
-- 🔍 Delving into  the fascinating realm of **3D Object Reconstruction**
+- 🔭 I’m currently working on **object detection for robotics applications**.
+- 🌱 Actively exploring advanced techniques in **Machine Vision**.
+- 🔍 Delving into **3D Object Reconstruction**.
 - 📫 Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/tessapulli/]).
   
 🔧 **Tech Stack:**
