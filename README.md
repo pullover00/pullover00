@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **object detection for robotics applications**.
 - 🌱 Actively exploring advanced techniques in **Machine Vision**.
 - 🔍 Delving into **3D Object Reconstruction**.
-- 📫 Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/tessapulli/]).
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tessapulli/).
   
 🔧 **Tech Stack:**
 - 🛠️ Programming Languages & Libraries:
