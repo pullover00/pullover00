@@ -12,4 +12,8 @@
 - 🌱 Actively exploring advanced techniques in **Machine Vision**.
 - 🔍 Delving into **3D Object Reconstruction**.
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tessapulli/).
+
+- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pullover00&show_icons=true&locale=en&layout=compact" alt="pullover00" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pullover00&show_icons=true&locale=en" alt="pullover00" /></p>
   
