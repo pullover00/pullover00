@@ -8,7 +8,7 @@
 
 
 🌟 **What I Do**
-- 🔭 I’m currently working on **Object Detection for Robotics Applications**.
+- 🔭 I’m currently working on **Object Pose Estimation for Robotics Applications**.
 - 🌱 Actively exploring advanced techniques in **Machine Vision**.
 - 🔍 Delving into **3D Object Reconstruction**.
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tessapulli/).
